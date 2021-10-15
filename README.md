@@ -1,0 +1,1 @@
+# Single-Element-Resistive-Sensor-using-Direct-Microcontroller-Approach
